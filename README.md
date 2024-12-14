@@ -1,6 +1,6 @@
 #  🌍 Navigating the Python Landscape: A Thorough Study
 
-Welcome to the Python_Development_Fundamentals repository! This collection of carefully designed Google Colab notebooks is aimed at helping learners acquire and strengthen their Python programming skills. Covering both foundational and intermediate topics, these notebooks provide an engaging, interactive way to explore Python concepts and enhance practical understanding.
+Welcome to the Python_Development_Fundamentals repository! This repository consists of collection of carefully designed Google Colab notebooks is aimed at helping learners acquire and strengthen their Python programming skills. Covering both foundational and intermediate topics, these notebooks provide an engaging, interactive way to explore Python concepts and enhance practical understanding.
 
 
 ---
