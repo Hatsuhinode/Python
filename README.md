@@ -17,15 +17,23 @@ The repository contains the following notebooks:
 ```bash
 Python_Development_Fundamentals/
 │
-├── basicPython1.ipynb         # Covers fundamental Python concepts
-├── basicPython2.ipynb         # Introduces additional basic functionalities
-├── basicPython3.ipynb         # Explores advanced aspects of Python functions
-├── pythonException.ipynb      # Demonstrates exception-handling techniques
-├── pythonFunctions1.ipynb     # Introduces advanced Python functions
-├── pythonFunctions2.ipynb     # Explains decorators and nested functions
-├── pythonOOP1.ipynb           # Covers the basics of object-oriented programming
-├── pythonOOP2.ipynb           # Delves into advanced OOP topics such as inheritance
-└── README.md                  # Documentation for the repository
+├── Basic_Python_Concepts/
+│   ├── basicPython1.ipynb   # Covers fundamental Python concepts
+│   ├── basicPython2.ipynb   # Introduces additional basic functionalities
+│   ├── basicPython3.ipynb   # Explores advanced aspects of Python functions
+│
+├── Exception_Handling/
+│   ├── pythonException.ipynb  # Demonstrates exception-handling techniques
+│
+├── Advanced_Python_Functions/
+│   ├── pythonFunctions1.ipynb  # Introduces advanced Python functions
+│   ├── pythonFunctions2.ipynb  # Explains decorators and nested functions
+│
+├── Object_Oriented_Programming_(OOP)/
+│   ├── pythonOOP1.ipynb  # Covers the basics of object-oriented programming
+│   ├── pythonOOP2.ipynb  # Delves into advanced OOP topics such as inheritance
+│
+└── README.md             # Documentation for the repository
 ```
 
 Each notebook focuses on specific topics, making it easy for learners to follow a structured progression or selectively explore the areas they find most interesting.
